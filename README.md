@@ -39,8 +39,6 @@ A healthcare patient management application that allows patients to easily regis
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
@@ -87,7 +85,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
+
 cd healthcare
 ```
 
@@ -986,8 +984,5 @@ export const StatusIcon = {
 };
 ```
 
-</details>
 
-## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
